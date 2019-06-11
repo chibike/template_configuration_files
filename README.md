@@ -86,6 +86,12 @@ Alt+D
 
 # Delete the character before the cursor.
 Ctrl+H or Backspace
+
+# Delete a word
+Ctrl+W
+
+# Delete a Line
+Ctrl+U
 ```
 
 ### Fixing Typos
